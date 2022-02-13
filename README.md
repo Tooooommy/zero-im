@@ -1,4 +1,9 @@
-# zero-im
+# zero-im based on [go-zero]()
+
+## Architecture
+
+## structure 
+client -> websocket -> rpc -> pubsub 
 
 ### account
  - 添加账号
